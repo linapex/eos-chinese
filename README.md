@@ -11,6 +11,10 @@ QQ群：721929980
 
 博客：https://my.oschina.net/linapex
 
+公链定制：
+http://jsq.ink
+http://aidapp.vip
+
 
 # EOSIO - The Most Powerful Infrastructure for Decentralized Applications
 
